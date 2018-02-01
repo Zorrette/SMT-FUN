@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 
-# Inspire (almost copied) from the Picoctf 2013 Harder Serial
+# Inspire (a lot) from the Picoctf 2013 Harder Serial
 
-# Damn you lost THE motivation sentence to survive the LSE
-# All you remember is some constraint (people use that to remember stuff) 
-# For even MORE FUN, the serial you will found can be translate to a sentence (no space, easy translation), if you think you found it, come to me for reward <3
+# Damn, you lost THE motivation sentence to survive the LSE !!
+# All you remember is some constraint (people use that to remember stuff)
+# When you have the serial (the actual interresting part), for even MORE FUN, you can be translate it to a sentence (no space, easy translation), if you think you found it, come to me for reward <3
 
 
 # I thing my serial is the only solution but check with me before the 2nd part
