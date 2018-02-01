@@ -6,9 +6,6 @@
 # All you remember is some constraint (people use that to remember stuff)
 # When you have the serial (the actual interresting part), for even MORE FUN, you can be translate it to a sentence (no space, easy translation), if you think you found it, come to me for reward <3
 
-
-# I thing my serial is the only solution but check with me before the 2nd part
-
 import sys
 
 def check_serial(serial):
@@ -52,8 +49,6 @@ def check_serial(serial):
   if int(serial[2]) - int(serial[16]) != -1:
     return False
   if int(serial[4]) - int(serial[6]) != 4:
-    return False
-  if int(serial[0]) % int(serial[5]) != 2:
     return False
   if int(serial[5]) * int(serial[11]) != 45:
     return False
